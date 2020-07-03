@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c19ed6-ee11-40b1-ae50-83f0d622a16b" name="Default Changelist" comment="" />
+    <list default="true" id="77c19ed6-ee11-40b1-ae50-83f0d622a16b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html00.html" beforeDir="false" afterPath="$PROJECT_DIR$/html00.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/html00.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1e9bAH7pEaRGoEvwnB8SeFfR6dd" />
   <component name="ProjectViewState">
@@ -35,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593736610692</updated>
       <workItem from="1593736615286" duration="887000" />
+      <workItem from="1593752836184" duration="4296000" />
     </task>
     <servers />
   </component>
