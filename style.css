@@ -1,0 +1,79 @@
+@charset "UTF-8";
+div.jony{
+    transition: background-color 2s;
+}
+div.jony:hover{
+    background-color: rgba(128, 128, 128, 0.57);
+}
+figure.image-exemplo{
+    border: 8px solid #ffffff;
+    box-shadow: 2px 2px 10px black;
+    background-color: rgba(255, 255, 255, 0.9);
+    /*box-sizing: border-box;*/
+    width:250px;
+    height:180px;
+    transition: width 2s, height 2s;
+}
+figure.image-exemplo:hover{
+    width:300px;
+    height: 210px;
+}
+figure.image-exemplo img {
+
+    width: 100px;
+    height: 100px;
+    opacity:1;
+    transition: height 3s, width 3s, opacity 2s;
+}
+figure.image-exemplo:hover img{
+    width: 160px;
+    height: 160px;
+    opacity:0.8;
+}
+figure.image-exemplo figcaption{
+    opacity:0;
+    text-size:5px;
+    transition: opacity 1s;
+    /*box-sizing:border-box;*/
+    padding:1px;
+
+}
+figure.image-exemplo:hover figcaption{
+    opacity:1;
+}
+body{
+    background-color: #a4c2db;
+    color:rgba(0,0,0,0.8);
+}
+p{
+    font-family:"Arial";
+    color:white;
+    text-shadow: 1px 1px 5px #000057;
+    text-indent:30px;
+}
+bob{
+    font-family:"calibri";
+    font-size:20px;
+    text-weight:bolder;
+    color:black;
+}
+h1 {
+    font-family: Algerian;
+    font-size: 35px;
+    color: white;
+    text-shadow: 3px 3px 4px black;
+}
+h2{
+    font-family:"monospace";
+    font-size:35px;
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px #a7a704, 2px 2px 6px rgba(229, 154, 5, 0.78);
+    text-decoration: underline overline ;
+    text-decoration-color: rgba(193, 126, 126, 0.89);
+}
+h3{
+    font-family:"calibri";
+    font-size:25px;
+    color:white;
+    text-shadow:0px 0px 10px black;
+}
